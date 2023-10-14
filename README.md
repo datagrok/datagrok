@@ -1,3 +1,5 @@
+Not affiliated with [Datagrok Inc.](https://github.com/datagrok-ai).
+
 # Give Up GitHub
 
 I have "given up GitHub." 
