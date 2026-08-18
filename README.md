@@ -1,18 +1,19 @@
-# Give Up GitHub
+[![Do Not Upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
-I have "given up GitHub." 
-[You should too](https://GiveUpGitHub.org).
+# Leave GitHub
+
+[I no longer use GitHub.](https://GiveUpGitHub.org).
 
 Any repositories I decide to publish in the future will appear at <https://git.orbital.rodeo>.
 
-Any use of my projects' code by GitHub Copilot, past or present, is done without my permission.
-I do not consent to GitHub's use of my code in Copilot.
+Any use of my projects' code by GitHub Copilot or any other language model, past or present, is done without my permission.
+I do not consent to GitHub's use of my code.
 
-# "Grok"
+# The "grok" in my username
 
 I'm not a fan of Heinlein, who coined the term.
 
-I'm not a fan of esr who popularized it among computer enthusiasts through his modified verison of "the jargon file."
+I'm not a fan of esr who popularized it among computer enthusiasts through his modified version of "the jargon file."
 
 I'm not affiliated with [Datagrok Inc.](https://github.com/datagrok-ai).
 
